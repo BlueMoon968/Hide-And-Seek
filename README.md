@@ -24,3 +24,7 @@ Specifically, I have noticed that:
 
 ## Graphics
 - Procjam 2016 Chicmonster's 2D Pack by Tess.
+
+## Fonts
+- 3DVenture -> https://www.dafont.com/it/3dventure.font
+- Earthbound Beginnings -> https://fontstruct.com/fontstructions/show/1658727/earthbound-beginnings-1
